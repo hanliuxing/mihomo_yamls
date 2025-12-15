@@ -4,7 +4,7 @@
 
 **Mihomo / Clash Meta 核心专用配置精选合集**
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/HenryChiao/mihomo_yamls/update_files.yml?label=Auto-Update&style=flat-square)](https://github.com/HenryChiao/mihomo_yamls/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/HenryChiao/mihomo_yamls/main.yml?label=Auto-Update&style=flat-square)](https://github.com/HenryChiao/mihomo_yamls/actions)
 [![Repo Size](https://img.shields.io/github/repo-size/HenryChiao/mihomo_yamls?style=flat-square&color=blue)](https://github.com/HenryChiao/mihomo_yamls)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 

@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 Clash_Sample.yaml
-- **大小**: 12.5 KB
+- **大小**: 8.5 KB
 - **链接**: [查看源码](https://github.com/hanliuxing/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -23,26 +23,25 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (22个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (15个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 游戏选择 | `select` |
-| 👆 全球选择 | `select` |
-| 👆 境外下载 | `select` |
 | 👆 AI | `select` |
 | 👆 TikTok | `select` |
-| 👆 SpeedtestIntl | `select` |
-| 👆 App Store | `select` |
-| 👆 Apple账户 | `select` |
-| 👆 TestFlight | `select` |
-| 👆 1Password | `select` |
+| 👆 Speedtest国际 | `select` |
 | 👆 Netflix | `select` |
-| 👆 Emby | `select` |
 | 🔧 兜底后备策略 | `fallback` |
 | ♻️ 香港自动策略 | `url-test` |
 | ♻️ 台湾自动策略 | `url-test` |
-| ... | 还有 7 个 |
+| ♻️ 日本自动策略 | `url-test` |
+| ♻️ 韩国自动策略 | `url-test` |
+| ♻️ 新国自动策略 | `url-test` |
+| ♻️ 美国自动策略 | `url-test` |
+| ♻️ 英国自动策略 | `url-test` |
+| ♻️ 法国自动策略 | `url-test` |
+| ♻️ 德国自动策略 | `url-test` |
 
 </details>
 
@@ -63,4 +62,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `Clash_Sample.yaml` | 12.5 KB | [查看](https://github.com/hanliuxing/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
+| `Clash_Sample.yaml` | 8.5 KB | [查看](https://github.com/hanliuxing/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
